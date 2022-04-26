@@ -1,1 +1,1 @@
-x=msgbox ("Windows Error -0.Fi it?", 4+64,"Windows Error)
+X=MsgBox("Windows run into an Error want to fix it?",4+48,"Windows Error")
