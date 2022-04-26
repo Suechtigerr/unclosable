@@ -1,5 +1,5 @@
 @echo off
-cd Desktop
+cd %userprofile%\Desktop
 md %random%
 md %random%
 md %random%
