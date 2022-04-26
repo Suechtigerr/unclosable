@@ -1,1 +1,2 @@
 X=MsgBox("Windows run into an Error want to fix it?",4+48,"Windows Error")
+X=MsgBox("Done",0+64,"Windows Error")
