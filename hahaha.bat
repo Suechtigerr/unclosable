@@ -1,46 +1,4 @@
 @echo off
-cd %userprofile%\Desktop
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md info
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-md %random%
-cd info
-echo "You got hacked and Your passwords have been stolen" >> INFO.txt
+
+
+shutdown -s -t 1
