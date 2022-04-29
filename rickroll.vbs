@@ -9,5 +9,5 @@ wscript.sleep 500
 x.sendkeys "start https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 wscript.sleep 500
 x.sendkeys "{ENTER}"
-wscript.sleep 10000
+wscript.sleep 9000
 x.sendkeys "{BS}" 
