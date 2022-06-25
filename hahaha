@@ -1,5 +1,0 @@
-@echo off
-
-
-cd %temp%
-FOR %%A IN (*.vbs) DO DEL %%A
